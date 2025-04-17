@@ -9,7 +9,7 @@ Com uma trajetória sólida na área de logística e gestão, hoje dedico meu te
 
 Você pode conferir todos os meus exercícios e aprendizados no repositório de **Formação Back-End** abaixo:
 
-- [Formação Back-End - Oracle Next Education](https://github.com/DarleiMota/formacao-backend)
+- [Formação Back-End - Oracle Next Education]([https://github.com/DarleiMota/formacao-backend](https://github.com/DarleiMota/FormacaoBackEnd))
 
 ---
 
