@@ -1,15 +1,19 @@
-# 👋 Olá, eu sou o Darlei Mota!
-
-Sou um entusiasta da tecnologia em transição de carreira para a área de desenvolvimento Back-End. Atualmente estou cursando a formação em Java no programa **Oracle Next Education (ONE)**, em parceria com a **Alura**.
-
-Com uma trajetória sólida na área de logística e gestão, hoje dedico meu tempo ao aprendizado prático de programação, com foco em me tornar um desenvolvedor preparado para os desafios do mercado.
-
-💡 Acredito no poder da curiosidade, da disciplina e da prática constante.  
-🚀 Estou em busca da minha primeira oportunidade como **Dev Back-End**.
-
-Você pode conferir todos os meus exercícios e aprendizados no repositório de **Formação Back-End** abaixo:
-
-- [Formação Back-End - Oracle Next Education](https://github.com/DarleiMota/FormacaoBackEnd)
+<table>
+  <tr>
+    <td width="65%">
+      <h1>👋 Olá, eu sou o Darlei Mota!</h1>
+      <p>Sou um entusiasta da tecnologia em transição de carreira para a área de desenvolvimento Back-End. Atualmente estou cursando a formação em Java no programa <strong>Oracle Next Education (ONE)</strong>, em parceria com a <strong>Alura</strong>.</p>
+      <p>Com uma trajetória sólida na área de logística e gestão, hoje dedico meu tempo ao aprendizado prático de programação, com foco em me tornar um desenvolvedor preparado para os desafios do mercado.</p>
+      <p>💡 Acredito no poder da curiosidade, da disciplina e da prática constante. <br>
+      🚀 Estou em busca da minha primeira oportunidade como <strong>Dev Back-End</strong>.</p>
+      <p>📌 Confira meus projetos da formação:<br>
+      <a href="https://github.com/DarleiMota/FormacaoBackEnd"><strong>➡️ Formação Back-End - Oracle Next Education</strong></a></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/DarleiMota/DarleiImagens/blob/main/Darleidesenho.png?raw=true" width="250px" alt="Darlei em Pixel Art"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
