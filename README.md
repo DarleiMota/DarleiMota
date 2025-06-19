@@ -1,19 +1,29 @@
+
 <table>
   <tr>
     <td width="65%">
-      <h1>👋 Olá, eu sou o Darlei Mota!</h1>
-      <p>Sou um entusiasta da tecnologia em transição de carreira para a área de desenvolvimento Back-End. Atualmente estou cursando a formação em Java pelo programa <strong>Oracle Next Education (ONE)</strong>, em parceria com a <strong>Alura</strong>.</p>
-      <p>Com uma trajetória sólida na área de logística e gestão, hoje dedico meu tempo ao aprendizado prático de programação, com foco em me tornar um desenvolvedor preparado para os desafios do mercado.</p>
-      <p>💡 Acredito no poder da curiosidade, da disciplina e da prática constante.<br>
-      🚀 Estou em busca da minha primeira oportunidade como <strong>Dev Back-End</strong>.</p>
-      <p>📌 Confira meus projetos da formação:<br>
-      <a href="https://github.com/DarleiMota/FormacaoBackEnd"><strong>➡️ Formação Back-End - Oracle Next Education</strong></a></p>
+      <h1>👋 Fala dev, eu sou o Darlei Mota!</h1>
+      <p>Sou um profissional em transição de carreira, focado e comprometido com meu desenvolvimento como <strong>Desenvolvedor Back-End</strong>, com ênfase na linguagem Java.</p>
+      <p>Atualmente sigo firme nos estudos, participando de formações e desafios que me ajudam a construir uma base sólida em desenvolvimento de software, programação orientada a objetos, APIs, banco de dados e muito mais.</p>
+      <p>🧠 Minha trajetória anterior foi na área de logística e gestão, mas hoje meu objetivo está claro: atuar como desenvolvedor, aplicando soluções e criando projetos que impactem de verdade.</p>
+      <p>💡 Acredito na disciplina, na prática constante e na evolução diária.<br>
+      🚀 Estou focado em conquistar minha primeira oportunidade como <strong>Dev Back-End</strong> e sigo comprometido com essa jornada.</p>
     </td>
     <td align="center" valign="middle">
-      <img src="https://github.com/DarleiMota/DarleiImagens/blob/main/Darleidesenho.png?raw=true" width="250px" alt="Darlei em Pixel Art"/>
+      <img src="https://github.com/DarleiMota/DarleiImagens/blob/main/darlei-pixel.jpeg" width="250px" alt="Darlei em Pixel Art"/>
     </td>
   </tr>
 </table>
+
+---
+
+## 🚀 Minhas Trilhas de Formação
+
+| Plataforma     | Descrição                                | Link para o repositório | Status |
+|----------------|------------------------------------------|--------------------------|----------|
+| 🏆 **Alura (ONE)** | Formação Back-End em Java, APIs REST, POO, Spring | [➡️ Acessar repositório](https://github.com/DarleiMota/FormacaoBackEnd) |Em andamento |
+| 🔥 **SENAI - Full Stack** | Formação completa Back-End e Front-End | [➡️ Acessar repositório](https://github.com/DarleiMota/senai-fullstack) |Em andamento|
+| 🚀 **Rocketseat - Explorer** | Formação Front-End com HTML, CSS, JavaScript, Git e GitHub | [➡️ Acessar repositório](https://github.com/DarleiMota/rocketseat-explorer) |Concluído|
 
 ---
 
