@@ -33,7 +33,7 @@
 | Plataforma     | Descrição                                | Link para o repositório | Status |
 |----------------|------------------------------------------|--------------------------|----------|
 | 🏆 **Alura (ONE)** | Formação Back-End em Java, APIs REST, POO, Spring | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd) |Em andamento |
-| 🔥 **SENAI - Full Stack** | Formação completa Back-End e Front-End | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack)) |Em andamento|
+| 🔥 **SENAI - Full Stack** | Formação completa Back-End e Front-End | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack) |Em andamento|
 | 🚀 **Rocketseat - Explorer** | Formação Front-End com HTML, CSS, JavaScript, Git e GitHub | [Em construção](https://github.com/DarleiMota/rocketseat-explorer) |Concluído|
 
 ---
