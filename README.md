@@ -28,37 +28,67 @@
 
 ---
 
-## 🚀 Minhas Trilhas de Formação
+## 🚀 Trilhas de Formação
 
-| Plataforma     | Descrição                                | Link para o repositório | Status |
-|----------------|------------------------------------------|--------------------------|----------|
-| 🏆 **Alura (ONE)** | Formação Back-End em Java, APIs REST, POO, Spring | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd) |Em andamento |
-| 🔥 **SENAI - Full Stack** | Formação completa Back-End e Front-End | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack) |Em andamento|
-| 🚀 **Rocketseat - Explorer** | Formação Front-End com HTML, CSS, JavaScript, Git e GitHub | [Em construção](https://github.com/DarleiMota/rocketseat-explorer) |Concluído|
+| Plataforma                   | Descrição                                                  | Link para o repositório                                             | Status       |
+| ---------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
+| 🏆 **Alura (ONE)**           | Formação Back-End em Java, APIs REST, POO, Spring          | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd)     | ✅ Concluído  |
+| 🎯 **Tech Advance**          | Preparação para certificação CLI                           | *Repositório em breve*                                              | Em andamento |
+| 🔥 **SENAI - Full Stack**    | Formação completa Back-End e Front-End                     | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack)      | Em  Andamento |
+| 🚀 **Rocketseat - Explorer** | Formação Front-End com HTML, CSS, JavaScript, Git e GitHub | *Repositório em breve*                                              | Em  Andamento   |
 
 ---
 
 ## 🎯 Meus objetivos atuais
-- ✅ Concluir a formação Back-End ONE/Alura
-- ✅ Praticar com projetos e desafios em Java
-- ✅ Criar um portfólio profissional de projetos no GitHub
-- 🚀 Ingressar no mercado como desenvolvedor júnior
+
+### ✅ Concluídos
+
+* Concluir a formação **Back-End ONE/Alura**
+* Criar um portfólio profissional de projetos no GitHub
 
 ---
 
-## 📚 Atualmente estudando
-- Java com foco em Back-End
-- Fundamentos da Programação Orientada a Objetos
-- Estrutura de dados e boas práticas com Git
-- Projeto integrador com desafios da Alura
+### 🚀 Em andamento
+
+* Finalizar **Tech Advance** e conquistar a **certificação CLI**
+* Concluir o curso do **SENAI Full Stack**
+* Consolidar os estudos de **Spring Boot** (Swagger, JUnit, JWT, boas práticas)
 
 ---
 
-## 📌 Projetos em destaque
-- [Amigo Secreto](https://github.com/DarleiMota/AmigoSecreto)
-- [Portfólio com HTML e CSS](https://github.com/DarleiMota/portifolioDarleiAlura)
+### 🎯 Próximos passos
 
-(*Outros projetos em breve!*)
+* Ingressar na primeira vaga como **Dev Back-End Júnior**
+* Obter certificação oficial em **Oracle Cloud**
+* Participar de projetos (incluindo freelances e colaborações open-source)
+* Expandir o repositório profissional com mais projetos Java/Spring
+
+---
+
+## 📌 Projetos em Destaque
+
+### ✅ Projetos Concluídos
+
+| Projeto                                                                         | Descrição                                                              | Tecnologias                             | Status                     |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | -------------------------- |
+| [Amigo Secreto](https://github.com/DarleiMota/AmigoSecreto)                     | Jogo simples em Java para sorteio de amigos secretos                   | HTML, JavaScript, CSS                                   | Concluído                  |
+| [Portfólio com HTML e CSS](https://github.com/DarleiMota/portifolioDarleiAlura) | Página pessoal com design responsivo                                   | HTML, CSS                               | Concluído                  |
+| [Conversor de Moedas](https://github.com/DarleiMota/ConversorMoedas)            | Aplicação de conversão de moedas em tempo real                         | Java, Spring Boot, APIs REST            | ✅ Concluído *(em upgrade)* |
+| [LiterAlura](https://github.com/DarleiMota/LiterAlura)                          | Catálogo de livros com API e Spring Boot                               | Java, Spring Boot, JPA, PostgreSQL      | ✅ Concluído *(em upgrade)* |
+| [Fórum Hub](https://github.com/DarleiMota/ForumHub)                             | Fórum de perguntas e respostas com API e Spring Boot, autenticação JWT | Java, Spring Boot, JPA, PostgreSQL, JWT | ✅ Concluído *(em upgrade)* |
+
+---
+
+### 🚧 Projetos em Desenvolvimento
+
+| Projeto                        | Descrição                                                  | Tecnologias                        | Status                | Término       |
+| ------------------------------ | ---------------------------------------------------------- | ---------------------------------- | --------------------- | ------------- |
+| **RPG “A Maldição de Eldora”** | Jogo interativo em Java com narrativa de fantasia medieval | Java, POO                          | 🚧 Em desenvolvimento | Julho/2026    |
+| **Gestão de Pessoa**           | Projeto foco em gerenciamento pessoal                      | Java, Spring Boot, JPA, PostgreSQL | 🚧 Em desenvolvimento | Setembro/2025 |
+| **Projetos SENAI**             | Exercícios e aplicações da formação Full Stack             | Java, JS, HTML, CSS, SQL           | 🚧 Em andamento       | Julho/2025    |
+| **Projetos Tech Advance**      | Laboratórios práticos da certificação CLI                  | Oracle Cloud, CLI, DevOps          | 🚧 Em andamento       | Novembro/2025 |
+| **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | Outubro/2025  |
+| **Consulta CEP**               | Consulta de endereços via CEP no Brasil                    | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | Outubro/2025  |
 
 ---
 
