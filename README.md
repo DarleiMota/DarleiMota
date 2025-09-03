@@ -85,8 +85,6 @@
 | ------------------------------ | ---------------------------------------------------------- | ---------------------------------- | --------------------- | ------------- |
 | **RPG “A Maldição de Eldora”** | Jogo interativo em Java com narrativa de fantasia medieval | Java, POO                          | 🚧 Em desenvolvimento | Julho/2026    |
 | **Gestão de Pessoa**           | Projeto foco em gerenciamento pessoal                      | Java, Spring Boot, JPA, PostgreSQL | 🚧 Em desenvolvimento | Setembro/2025 |
-| **Projetos SENAI**             | Exercícios e aplicações da formação Full Stack             | Java, JS, HTML, CSS, SQL           | 🚧 Em andamento       | Julho/2025    |
-| **Projetos Tech Advance**      | Laboratórios práticos da certificação CLI                  | Oracle Cloud, CLI, DevOps          | 🚧 Em andamento       | Novembro/2025 |
 | **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | Outubro/2025  |
 | **Consulta CEP**               | Consulta de endereços via CEP no Brasil                    | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | Outubro/2025  |
 
