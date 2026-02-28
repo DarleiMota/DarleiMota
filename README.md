@@ -3,9 +3,9 @@
   <tr>
     <td width="65%">
       <h1>👋 Fala dev, eu sou o Darlei Mota!</h1>
-      <p>Desenvolvedor Back-End focado em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, integração com bancos de dados e construção de aplicações escalavéis..</p>
-      <p>Atualmente estou aprofundando meues estudos em arquitetura de software, boas práticas de desenvolvimento e tecnologias do ecossistema Java.</p>
-      <p>🧠 Minha trajetória anterior na área de logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico - habilidades que aplico hoje no desenvolvimento de software..</p>
+      <p>Desenvolvedor Back-End focado em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, integração com bancos de dados e construção de aplicações escaláveis.</p>
+      <p>Atualmente estou aprofundando meus estudos em arquitetura de software, boas práticas de desenvolvimento e tecnologias do ecossistema Java.</p>
+      <p>🧠 Minha trajetória anterior na área de logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico - habilidades que aplico hoje no desenvolvimento de software.</p>
       <p>💡 Acredito na disciplina, na prática constante e na evolução diária.<br>
       🚀 Estou focado em conquistar minha primeira oportunidade como <strong>Dev Back-End</strong> e sigo comprometido com essa jornada.</p>
     </td>
