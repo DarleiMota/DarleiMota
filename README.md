@@ -49,8 +49,8 @@
 ### ✅ Concluídos
 
 * Concluir a formação **Back-End ONE/Alura**
-* Criar um portfólio profissional de projetos no GitHub
-
+* Portfólio profissional de projetos no GitHub
+* Certificação oficial em **Oracle Cloud**
 ---
 
 ### 🚀 Em andamento
@@ -64,7 +64,6 @@
 ### 🎯 Próximos passos
 
 * Ingressar na primeira vaga como **Dev Back-End Júnior**
-* Obter certificação oficial em **Oracle Cloud**
 * Participar de projetos (incluindo freelances e colaborações open-source)
 * Expandir o repositório profissional com mais projetos Java/Spring
 
