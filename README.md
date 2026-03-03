@@ -3,11 +3,11 @@
   <tr>
     <td width="65%">
       <h1>👋 Fala dev, eu sou o Darlei Mota!</h1>
-      <p>Desenvolvedor Back-End focado em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, integração com bancos de dados e construção de aplicações escaláveis.</p>
-      <p>Atualmente estou aprofundando meus estudos em arquitetura de software, boas práticas de desenvolvimento e tecnologias do ecossistema Java.</p>
-      <p>🧠 Minha trajetória anterior na área de logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico - habilidades que aplico hoje no desenvolvimento de software.</p>
-      <p>💡 Acredito na disciplina, na prática constante e na evolução diária.<br>
-      🚀 Estou focado em conquistar minha primeira oportunidade como <strong>Dev Back-End</strong> e sigo comprometido com essa jornada.</p>
+      <p>Desenvolvedor Back-End focado em Java e Spring Boot, atuando no desenvolvimento de APIs REST e construção de aplicações escaláveis.</p>
+      <p>Tenho interesse em arquitetura de aplicações, organização de código, separação de responsabilidades, segurança e desempenho em ambiente de produção.</p>
+      <p>Minha trajetória anterior na área de logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico, habilidades que aplico hoje no desenvolvimento de software.</p>
+      <p>Valorizo consistência, prática contínua e evolução técnica diária.<br>
+      </p>
     </td>
     <td align="center" valign="middle">
       <img src="https://github.com/DarleiMota/DarleiImagens/blob/main/darlei-pixel.jpeg" width="250px" alt="Darlei em Pixel Art"/>
@@ -48,7 +48,7 @@
 
 ### ✅ Concluídos
 
-* Concluir a formação **Back-End ONE/Alura**
+* Formação **Back-End ONE/Alura**
 * Portfólio profissional de projetos no GitHub
 * Certificação oficial em **Oracle Cloud**
 ---
