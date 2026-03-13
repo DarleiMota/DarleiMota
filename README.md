@@ -91,6 +91,7 @@
 
 | Projeto                        | Descrição                                                  | Tecnologias                        | Status                | Término       |
 | ------------------------------ | ---------------------------------------------------------- | ---------------------------------- | --------------------- | ------------- |
+| **SportPredict** | API backend para análise estatística de partidas de futebol com distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em desenvolvimento | Maio/2026    |
 | **RPG “A Maldição de Eldora”** | Jogo interativo em Java com narrativa de fantasia medieval | Java, POO                          | 🚧 Em desenvolvimento | Julho/2026    |
 | **Gestão de Pessoa**           | Projeto foco em gerenciamento pessoal                      | Java, Spring Boot, JPA, PostgreSQL | 🚧 Em desenvolvimento | Setembro/2025 |
 | **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | Outubro/2025  |
