@@ -75,11 +75,11 @@
 
 | Projeto                                                                         | Descrição                                                              | Tecnologias                             | Status                     |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | -------------------------- |
-| [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | Fórum de perguntas e respostas com API e Spring Boot, autenticação JWT | Java, Spring Boot, JPA, PostgreSQL, JWT | ✅ Concluído *(em upgrade)* |
-| [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | Catálogo de livros com API e Spring Boot                               | Java, Spring Boot, JPA, PostgreSQL      | ✅ Concluído *(em upgrade)* |
-| [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação de conversão de moedas em tempo real                         | Java, Spring Boot, APIs REST            | ✅ Concluído *(em upgrade)* |
-| [Amigo Secreto](https://github.com/DarleiMota/AmigoSecreto)                     | Jogo simples em Java para sorteio de amigos secretos                   | HTML, JavaScript, CSS                                   | Concluído                  |
-| [Portfólio com HTML e CSS](https://github.com/DarleiMota/portifolioDarleiAlura) | Página pessoal com design responsivo                                   | HTML, CSS                               | Concluído                  |
+| [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | API REST de fórum com autenticação JWT e persistência relacional | Java, Spring Boot, JPA, PostgreSQL, JWT | ✅ Concluído *(melhorias em andamento)* |
+| [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | API de catálogo de livros com integração externa e persistência em PostgreSQL                              | Java, Spring Boot, JPA, PostgreSQL      | ✅ Concluído *(melhorias em andamento* |
+| [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação Java para conversão de moedas em tempo real com consumo de API                        | Java, Spring Boot, APIs REST            | ✅ Concluído *(melhorias em andamento)* |
+| [Amigo Secreto](https://github.com/DarleiMota/AmigoSecreto)                     | Aplicação web simples para sorteio de amigos secretos                  | HTML, JavaScript, CSS                                   | Concluído                  |
+| [Portfólio com HTML e CSS](https://github.com/DarleiMota/portifolioDarleiAlura) | Página pessoal responsiva para apresentação profissional e portifólio                                  | HTML, CSS                               | Concluído                  |
 
 
 
