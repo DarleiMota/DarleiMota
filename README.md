@@ -94,8 +94,8 @@
 | **SportPredict** | API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em desenvolvimento | 
 | **Gestão de Pessoa**           | API para gerenciamento de cadastro com persistência relacional | Java, Spring Boot, JPA, PostgreSQL | 🚧 Em desenvolvimento | 
 | **RPG “A Maldição de Eldora”** | Jogo interativo em Java com narrativa de fantasia medieval | Java, POO                          | 🚧 Em desenvolvimento | 
-| **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    | 
-| **Consulta CEP**               | Consulta de endereços via CEP no Brasil                    | Java, Spring Boot, APIs REST, Swing | 📝 Em planejamento    |
+| **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Backlog Técnico   | 
+| **Consulta CEP**               | Consulta de endereços via CEP no Brasil                    | Java, Spring Boot, APIs REST, Swing | 📝 Backlog Técnico   |
 
 ---
 
