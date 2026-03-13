@@ -75,6 +75,7 @@
 
 | Projeto                                                                         | Descrição                                                              | Tecnologias                             | Status                     |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | -------------------------- |
+| [FlightOnTime](https://github.com/hackathonflightontime/flightOnTime)                             | MVP preditivo e atraso de voos com API REST e integração estatística | Java, Spring Boot, PostgreSQL, REST API | Concluído |
 | [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | API REST de fórum com autenticação JWT e persistência relacional | Java, Spring Boot, JPA, PostgreSQL, JWT, REST API | ✅ Concluído *(melhorias em andamento)* |
 | [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | API de catálogo de livros com integração externa e persistência em PostgreSQL                              | Java, Spring Boot, JPA, PostgreSQL, REST API      | ✅ Concluído *(melhorias em andamento* |
 | [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação Java para conversão de moedas em tempo real com consumo de API                        | Java, Spring Boot, REST API           | ✅ Concluído *(melhorias em andamento)* |
