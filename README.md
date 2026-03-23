@@ -44,31 +44,6 @@
 
 ---
 
-## 🎯 Meus objetivos atuais
-
-### ✅ Concluídos
-
-* Formação **Back-End ONE/Alura**
-* Portfólio profissional de projetos no GitHub
-* Certificação oficial em **Oracle Cloud**
----
-
-### 🚀 Em andamento
-
-* Finalizar **Tech Advance** e conquistar a **certificação CLI**
-* Concluir o curso do **SENAI Full Stack**
-* Consolidar os estudos de **Spring Boot** (Swagger, JUnit, JWT, boas práticas)
-
----
-
-### 🎯 Próximos passos
-
-* Ingressar na primeira vaga como **Dev Back-End Júnior**
-* Participar de projetos (incluindo freelances e colaborações open-source)
-* Expandir o repositório profissional com mais projetos Java/Spring
-
----
-
 ## 📌 Projetos em Destaque
 
 ### ✅ Projetos Concluídos
