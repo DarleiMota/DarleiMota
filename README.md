@@ -35,15 +35,15 @@ Outras tecnologias:
 ## 🎯 Certificações
 
 - Oracle Cloud Infrastructure Foundations (OCI Certified):</p>
-Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e segurança na Oracle Cloud Infrastructure.
+  Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e segurança na Oracle Cloud Infrastructure.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-Análise e Desenvolvimento de Sistemas (ADS)  
-Universidade Estácio  
-Conclusão prevista: 2026
+- Análise e Desenvolvimento de Sistemas (ADS)  
+  Universidade Estácio  
+  Conclusão prevista: 2026
 
 ---
 
