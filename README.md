@@ -99,7 +99,6 @@ API backend para análise estatística de partidas de futebol utilizando distrib
 🔗 [Ver repositório](https://github.com/darleimota/sport-predict)
 
 ## 📈 Estatísticas GitHub
-![Estatísticas do GitHub de Darlei](https://github-readme-stats.vercel.app/api?username=DarleiMota&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarleiMota&layout=compact&theme=radical)
 
 ---
