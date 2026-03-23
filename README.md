@@ -56,7 +56,7 @@ Conclusão prevista: 2026
 
 ---
 
-## 💻 Projetos em Destaque
+## 🧩 Projetos em Destaque
 
 ### ✈️ FlightOnTime
 MVP preditivo para estimativa de atraso em voos comerciais com base em dados externos.
