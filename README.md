@@ -56,7 +56,7 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 | [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | API REST de fórum com autenticação JWT e persistência relacional | Java, Spring Boot, JPA, PostgreSQL, JWT, REST API | ✅ Concluído *(melhorias em andamento)* |
 | [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | API de catálogo de livros com integração externa e persistência em PostgreSQL                              | Java, Spring Boot, JPA, PostgreSQL, REST API      | ✅ Concluído *(melhorias em andamento* |
 | [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação Java para conversão de moedas em tempo real com consumo de API                        | Java, Spring Boot, REST API           | ✅ Concluído *(melhorias em andamento)* |
-| **SportPredict** | API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em desenvolvimento | 
+| **SportPredict** | API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em evolução | 
 ---
 
 ## 📈 Estatísticas GitHub
