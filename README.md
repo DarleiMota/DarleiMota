@@ -2,11 +2,11 @@
 <table>
   <tr>
     <td width="65%">
-      <h1>👋 Fala dev, eu sou o Darlei Mota!</h1>
-      <p>Desenvolvedor Back-End focado em Java e Spring Boot, atuando no desenvolvimento de APIs REST e construção de aplicações escaláveis.</p>
-      <p>Tenho interesse em arquitetura de aplicações, organização de código, separação de responsabilidades, segurança e desempenho em ambiente de produção.</p>
-      <p>Minha trajetória anterior na área de logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico, habilidades que aplico hoje no desenvolvimento de software.</p>
-      <p>Valorizo consistência, prática contínua e evolução técnica diária.<br>
+      <h1>👋 Darlei Mota!</h1>
+      <p>Fala dev! Sou desenvolvedor Back-End com foco em Java e Spring Boot, construindo APIs REST e aplicações orientadas a dados.</p>
+      <p>Atuo com organização de código, separação de responsabilidades e boas práticas de desenvolvimento, sempre buscando escrever código limpo, seguro e performático.</p>
+      <p>MMinha trajetória anterior em logística e gestão me trouxe uma base sólida em resolução de problemas, organização e pensamento analítico — habilidades que aplico diariamente no desenvolvimento de software.</p>
+      <p>Valorizo consistência, prática contínua e evolução técnica constante.<br>
       </p>
     </td>
     <td align="center" valign="middle">
