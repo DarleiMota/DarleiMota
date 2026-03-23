@@ -47,7 +47,7 @@ Conclusão prevista: 2026
 
 ---
 
-## 🚀 Trilhas de Formação
+## ⚙️ Trilhas de Formação
 
 | Plataforma                   | Descrição                                                  | Link para o repositório                                             | Status       |
 | ---------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
@@ -56,7 +56,7 @@ Conclusão prevista: 2026
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💻 Projetos em Destaque
 
 ### ✈️ FlightOnTime
 MVP preditivo para estimativa de atraso em voos comerciais com base em dados externos.
@@ -86,7 +86,7 @@ API REST para gerenciamento de fórum com autenticação e persistência de dado
 
 ---
 
-### 📊 SportPredict
+### ⚽ SportPredict
 API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson e integração com dados externos.
 
 **Stack:** Java • Spring Boot • PostgreSQL • REST API  
