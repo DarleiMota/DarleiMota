@@ -37,7 +37,7 @@
 
 | Plataforma                   | Descrição                                                  | Link para o repositório                                             | Status       |
 | ---------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
-| **Alura (ONE)**           | Formação Back-End em Java, APIs REST, POO, Spring          | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd)     | ✅ Concluído  |
+| **Alura (ONE)**           | Formação prática em desenvolvimento back-end com Java, Spring Boot e APIs REST | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd)     | ✅ Concluído  |
 | **SENAI - Full Stack**    | Formação completa Back-End e Front-End                     | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack)      | Em  Andamento |
 
 ---
