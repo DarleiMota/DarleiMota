@@ -102,5 +102,3 @@ API backend para análise estatística de partidas de futebol utilizando distrib
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/darleimota)
 
 ---
-
-✨ Obrigado por visitar meu perfil! Fique à vontade para acompanhar minha jornada ou entrar em contato. Vamos crescer juntos!
