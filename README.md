@@ -50,20 +50,6 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 
 ## 🚀 Projetos em Destaque
 
-### 📊 SportPredict
-API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson e integração com dados externos.
-
-**Stack:** Java • Spring Boot • PostgreSQL • REST API  
-
-**Destaques:**
-- Integração com API externa de dados esportivos  
-- Aplicação de modelo estatístico (Poisson) para previsão  
-- Estrutura em arquitetura em camadas (controller, service, repository)  
-
-🔗 [Ver repositório](https://github.com/darleimota/sport-predict)
-
----
-
 ### ✈️ FlightOnTime
 MVP preditivo para estimativa de atraso em voos comerciais com base em dados externos.
 
@@ -89,6 +75,20 @@ API REST para gerenciamento de fórum com autenticação e persistência de dado
 - Estrutura RESTful com boas práticas de organização  
 
 🔗 [Ver repositório](https://github.com/darleimota/forum-hub-api)
+
+---
+
+### 📊 SportPredict
+API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson e integração com dados externos.
+
+**Stack:** Java • Spring Boot • PostgreSQL • REST API  
+
+**Destaques:**
+- Integração com API externa de dados esportivos  
+- Aplicação de modelo estatístico (Poisson) para previsão  
+- Estrutura em arquitetura em camadas (controller, service, repository)  
+
+🔗 [Ver repositório](https://github.com/darleimota/sport-predict)
 
 ## 📈 Estatísticas GitHub
 ![Estatísticas do GitHub de Darlei](https://github-readme-stats.vercel.app/api?username=DarleiMota&show_icons=true&theme=radical)
