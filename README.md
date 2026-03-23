@@ -41,9 +41,11 @@ Outras tecnologias:
 
 ## 🎓 Formação Acadêmica
 
-- Análise e Desenvolvimento de Sistemas (ADS)  
-  Universidade Estácio  
-  Conclusão prevista: 2026
+## 🎓 Formação Acadêmica
+
+**Análise e Desenvolvimento de Sistemas (ADS)**  
+Universidade Estácio  
+Conclusão prevista: 2026
 
 ---
 
