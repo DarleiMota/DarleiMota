@@ -88,7 +88,7 @@ API REST para gerenciamento de fórum com autenticação e persistência de dado
 ---
 
 ### ⚽ SportPredict
-API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson e integração com dados externos.
+API backend para análise de dados esportivos e aplicação de modelos estatísticos (distribuição de Poisson) para previsão de eventos em partidas de futebol.
 
 **Stack:** Java • Spring Boot • PostgreSQL • REST API  
 
