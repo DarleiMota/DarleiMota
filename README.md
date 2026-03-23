@@ -48,16 +48,47 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 
 ---
 
-## 📌 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-| Projeto                                                                         | Descrição                                                              | Tecnologias                             | Status                     |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | -------------------------- |
-| [FlightOnTime](https://github.com/hackathonflightontime/flightOnTime)                             | MVP preditivo de atraso de voos com API REST e integração estatística | Java, Spring Boot, REST API, PostgreSQL | Concluído |
-| [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | API REST de fórum com autenticação JWT e persistência relacional | Java, Spring Boot, JPA, PostgreSQL, JWT, REST API | ✅ Concluído *(melhorias em andamento)* |
-| [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | API de catálogo de livros com integração externa e persistência em PostgreSQL                              | Java, Spring Boot, JPA, PostgreSQL, REST API      | ✅ Concluído *(melhorias em andamento* |
-| [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação Java para conversão de moedas em tempo real com consumo de API                        | Java, Spring Boot, REST API           | ✅ Concluído *(melhorias em andamento)* |
-| **SportPredict** | API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em evolução | 
+### 📊 SportPredict
+API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson e integração com dados externos.
+
+**Stack:** Java • Spring Boot • PostgreSQL • REST API  
+
+**Destaques:**
+- Integração com API externa de dados esportivos  
+- Aplicação de modelo estatístico (Poisson) para previsão  
+- Estrutura em arquitetura em camadas (controller, service, repository)  
+
+🔗 [Ver repositório](https://github.com/darleimota/sport-predict)
+
 ---
+
+### ✈️ FlightOnTime
+MVP preditivo para estimativa de atraso em voos comerciais com base em dados externos.
+
+**Stack:** Java • Spring Boot • PostgreSQL • REST API  
+
+**Destaques:**
+- Consumo e integração com API externa de voos  
+- Processamento de dados para análise de atraso  
+- Organização do backend com boas práticas e separação de responsabilidades  
+
+🔗 [Ver repositório](https://github.com/darleimota/flightontime)
+
+---
+
+### 💬 Fórum Hub
+API REST para gerenciamento de fórum com autenticação e persistência de dados.
+
+**Stack:** Java • Spring Boot • JPA/Hibernate • PostgreSQL • JWT  
+
+**Destaques:**
+- Implementação de autenticação com JWT  
+- Persistência de dados com JPA/Hibernate  
+- Estrutura RESTful com boas práticas de organização  
+
+🔗 [Ver repositório](https://github.com/darleimota/forum-hub-api)
 
 ## 📈 Estatísticas GitHub
 ![Estatísticas do GitHub de Darlei](https://github-readme-stats.vercel.app/api?username=DarleiMota&show_icons=true&theme=radical)
