@@ -34,7 +34,7 @@ Outras tecnologias:
 
 ## 🎯 Certificações
 
-**Oracle Cloud Infrastructure Foundations (OCI Certified):**</p>
+**Oracle Cloud Infrastructure Foundations (OCI Certified):**
 Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e segurança na Oracle Cloud Infrastructure.
 
 ---
