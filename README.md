@@ -35,7 +35,7 @@
 
 ## 🎯 Certificações
 
-- Oracle Cloud Infrastructure Foundations (OCI Certified)|
+- Oracle Cloud Infrastructure Foundations (OCI Certified)</p>
 Certificação em fundamentos de computação em nuvem, incluindo arquitetura, redes, segurança e serviços básicos.
 
 ## 🚀 Trilhas de Formação
