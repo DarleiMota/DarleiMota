@@ -50,27 +50,13 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 
 ## 📌 Projetos em Destaque
 
-### ✅ Projetos Concluídos
-
 | Projeto                                                                         | Descrição                                                              | Tecnologias                             | Status                     |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------- | -------------------------- |
 | [FlightOnTime](https://github.com/hackathonflightontime/flightOnTime)                             | MVP preditivo de atraso de voos com API REST e integração estatística | Java, Spring Boot, REST API, PostgreSQL | Concluído |
 | [Fórum Hub](https://github.com/DarleiMota/forum-hub-api)                             | API REST de fórum com autenticação JWT e persistência relacional | Java, Spring Boot, JPA, PostgreSQL, JWT, REST API | ✅ Concluído *(melhorias em andamento)* |
 | [LiterAlura](https://github.com/DarleiMota/liter-alura)                          | API de catálogo de livros com integração externa e persistência em PostgreSQL                              | Java, Spring Boot, JPA, PostgreSQL, REST API      | ✅ Concluído *(melhorias em andamento* |
 | [Conversor de Moedas](https://github.com/DarleiMota/challenge-conversor-moeda)            | Aplicação Java para conversão de moedas em tempo real com consumo de API                        | Java, Spring Boot, REST API           | ✅ Concluído *(melhorias em andamento)* |
-
----
-
-### 🚧 Projetos em Desenvolvimento
-
-| Projeto                        | Descrição                                                  | Tecnologias                        | Status                | 
-| ------------------------------ | ---------------------------------------------------------- | ---------------------------------- | --------------------- |
 | **SportPredict** | API backend para análise estatística de partidas de futebol utilizando distribuição de Poisson | Java, Spring Boot, PostgreSQL, REST API                         | 🚧 Em desenvolvimento | 
-| **Gestão de Pessoa**           | API para gerenciamento de cadastro com persistência relacional | Java, Spring Boot, JPA, PostgreSQL | 🚧 Em desenvolvimento | 
-| **RPG “A Maldição de Eldora”** | Jogo interativo em Java com narrativa de fantasia medieval | Java, POO                          | 🚧 Em desenvolvimento | 
-| **Consulta Tabela FIPE**       | Consulta de valores de veículos pela Tabela FIPE           | Java, Spring Boot, APIs REST, Swing | 📝 Backlog Técnico   | 
-| **Consulta CEP**               | Consulta de endereços via CEP no Brasil                    | Java, Spring Boot, APIs REST, Swing | 📝 Backlog Técnico   |
-
 ---
 
 ## 📈 Estatísticas GitHub
