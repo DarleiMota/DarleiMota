@@ -45,7 +45,7 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 | Plataforma                   | Descrição                                                  | Link para o repositório                                             | Status       |
 | ---------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------ |
 | **Alura (ONE)**           | Formação prática em desenvolvimento back-end com Java, Spring Boot e APIs REST | [➡️ Repositório](https://github.com/DarleiMota/FormacaoBackEnd)     | ✅ Concluído  |
-| **SENAI - Full Stack**    | Desenvolvimento full stack com foco em APIs, integração e aplicações web       | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack)      | Em andamento (conclusão prevista: 2026) |
+| **SENAI - Full Stack**    | Formação full stack com desenvolvimento de APIs, integração com banco de dados e aplicações web | [➡️ Repositório](https://github.com/DarleiMota/senaiFullStack)      | Em andamento (conclusão prevista: 2026) |
 
 ---
 
