@@ -43,7 +43,7 @@ Certificação em fundamentos de cloud computing, incluindo arquitetura, redes e
 
 **Análise e Desenvolvimento de Sistemas (ADS)**  
 Universidade Estácio  
-Conclusão prevista: 2026
+Conclusão prevista: 2028
 
 ---
 
